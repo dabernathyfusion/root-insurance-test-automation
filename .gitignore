@@ -1,0 +1,15 @@
+# IntelliJ #
+.idea/
+*.iml
+
+# Maven Directories #
+target/
+test-results/
+log/
+
+# Properties #
+environment.properties
+config.xml
+
+# OS X #
+.DS_Store
